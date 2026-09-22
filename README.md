@@ -16,7 +16,7 @@ Resume → Job Description → AI Match Analysis → Skill Gap → ATS Keywords
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
-![License](https://img.shields.io/badge/License-MIT-green)
+
 
 ---
 
@@ -64,8 +64,7 @@ ai_job_application_agent/
 ├── tests/                  # pytest unit tests
 ├── docs/                   # LinkedIn post + resume bullet copy
 ├── requirements.txt
-├── .env.example
-└── LICENSE
+└── .env.example
 ```
 
 **Design principle:** every AI-powered feature (`gemini_client.py`,
