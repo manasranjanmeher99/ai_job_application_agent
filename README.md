@@ -142,11 +142,6 @@ a single black-box number.
 
 ---
 
-## 📄 License
-
-MIT — see [LICENSE](LICENSE).
-
----
 
 ## 🙌 Contributing
 
