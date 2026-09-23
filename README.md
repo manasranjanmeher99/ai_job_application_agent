@@ -79,7 +79,7 @@ tool is always usable, including for demos and CI.
 ### 1. Clone & install
 
 ```bash
-git clone https://github.com/<your-username>/ai-job-application-agent.git
+git clone https://github.com/manasranjanmeher99/ai-job-application-agent.git
 cd ai-job-application-agent
 python -m venv venv
 source venv/bin/activate      # Windows: venv\Scripts\activate
